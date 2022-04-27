@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/abhishek/Desktop/views-widgets-samples-main/LetsConnect3/app/src/main/res/drawable/btn_background.xml" value="0.1648148148148148" />
+        <entry key="..\:/Users/abhishek/Desktop/views-widgets-samples-main/LetsConnect3/app/src/main/res/drawable/edt_background.xml" value="0.1648148148148148" />
+        <entry key="..\:/Users/abhishek/Desktop/views-widgets-samples-main/LetsConnect3/app/src/main/res/drawable/message_box_background.xml" value="0.17685185185185184" />
+        <entry key="..\:/Users/abhishek/Desktop/views-widgets-samples-main/LetsConnect3/app/src/main/res/layout/activity_chat.xml" value="0.1" />
+        <entry key="..\:/Users/abhishek/Desktop/views-widgets-samples-main/LetsConnect3/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/abhishek/Desktop/views-widgets-samples-main/LetsConnect3/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/abhishek/Desktop/views-widgets-samples-main/LetsConnect3/app/src/main/res/layout/activity_main2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/abhishek/Desktop/views-widgets-samples-main/LetsConnect3/app/src/main/res/layout/activity_sign_up.xml" value="0.22" />
+        <entry key="..\:/Users/abhishek/Desktop/views-widgets-samples-main/LetsConnect3/app/src/main/res/layout/add_dialog_bix.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/abhishek/Desktop/views-widgets-samples-main/LetsConnect3/app/src/main/res/layout/edit_dialog_bix.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/abhishek/Desktop/views-widgets-samples-main/LetsConnect3/app/src/main/res/layout/item_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/abhishek/Desktop/views-widgets-samples-main/LetsConnect3/app/src/main/res/layout/received.xml" value="0.11911231884057971" />
+        <entry key="..\:/Users/abhishek/Desktop/views-widgets-samples-main/LetsConnect3/app/src/main/res/layout/sent.xml" value="0.22" />
+        <entry key="..\:/Users/abhishek/Desktop/views-widgets-samples-main/LetsConnect3/app/src/main/res/layout/user_layout.xml" value="0.22" />
+        <entry key="..\:/Users/abhishek/Desktop/views-widgets-samples-main/LetsConnect3/app/src/main/res/menu/menu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
